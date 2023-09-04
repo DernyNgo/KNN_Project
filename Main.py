@@ -1,6 +1,4 @@
-# Daniel Ngo
-# 010940298
-# C950: Data Structures and Algorithms 2
+#Daniel Ngo
 
 # Overall time complexity: O(n^2)
 # Overall space complexity: O(n)
