@@ -137,7 +137,7 @@ package_delivery()
 # Time & Space complexities: O(n)
 class Main:
     # Introduction line
-    print("\nWestern Governors University Parcel Service\n")
+    print("\nWelcome to the Parcel Service\n")
     # Present users with 3 options
     print("Please choose one of the following menu options:\n1. View all packages' status\n"
           "2. View the status of a certain package\n3. Exit out of this menu")
@@ -168,4 +168,4 @@ class Main:
         print(str(package))
     # Exit the menu
     elif options_input == '3':
-        print("Thank you for using WGU's Parcel Service! Have a great day.")
+        print("Thank you for using the Parcel Service! Have a great day.")
